@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" >
+    <script src="script.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <table border="1" width="100%">
+        <tr>
+            <td rowspan="2">img</td>
+            <td rowspan="2">Название</td>
+            <td colspan="2">Логин</td>
+        </tr>
+        <tr>
+            <td colspan="2">Пароль</td>
+        </tr>
+        <tr>
+            <td>Навигация</td>
+            
+        </tr>
+    </table>
+
+</body>
+</html>
